@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karin\\source\\repos\\Project6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{230485B3-843C-4D1D-963F-97E62FE3D31C}|Project6.vcxproj|C:\\Users\\karin\\source\\repos\\Project6\\project6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{230485B3-843C-4D1D-963F-97E62FE3D31C}|Project6.vcxproj|solutionrelative:project6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "project6.cpp",
+              "DocumentMoniker": "C:\\Users\\karin\\source\\repos\\Project6\\project6.cpp",
+              "RelativeDocumentMoniker": "project6.cpp",
+              "ToolTip": "C:\\Users\\karin\\source\\repos\\Project6\\project6.cpp*",
+              "RelativeToolTip": "project6.cpp*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T17:28:37.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
